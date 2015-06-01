@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 声明
+title: Hi
 date: 2015-06-01 05:04:42
 ---
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
+## Jenny.
 
----
+> Have a great time writing your blog.
 
-== Hi ==
-这个博客完全是为了给好友博客留言而存在的。
-
-
+Wish you:
+- many happy post entries.
+- many nice comments from everyone.
+- a lot of interesting things to discover and write about.
