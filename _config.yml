@@ -1,14 +1,10 @@
 # Site settings
-title: Windflowerz
-email: jenny.zhou@sdfeu.org
+title: On the way
 description: > # this means to ignore newlines until "baseurl:"
-   Windflowrz, blog, writen by a special person.
-
    This is a test version of capture output with Jekyll tool.
 baseurl: "/myblog" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-twitter_username: jenny.zhou
-github_username:  jenny.zhou
+github_username:  jenny0402
 
 # Build settings
 markdown: kramdown
