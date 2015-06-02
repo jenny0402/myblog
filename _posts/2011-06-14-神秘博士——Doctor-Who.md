@@ -4,11 +4,7 @@ title: 神秘博士——Doctor Who
 date: 2011-06-14 04:45:35
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 他的名字就叫Doctor，他是一个外星人，他是time
 lord——时间领主，可以在任意时空自由来去，带着他的旅行工具——TARDIS，一个外在看起来象一个小小警亭却内有乾坤的宇宙飞船。他有一个地球人好朋友Amy，以及Amy的未婚夫Rory陪着他在时空中冒险，过去和未来，地球和外太空，他们携手一起走过。Amy是一个大胆而有善良的女孩子，是Doctor的绝佳partner，Rory则是Amy的忠实守护者，因为爱而跟随，无怨无悔。

@@ -4,11 +4,7 @@ title: Doctor Who －最感动我的几个情节
 date: 2011-06-29 02:27:55
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 《Doctor
 Who》已经看了三季了，我是倒着看的，先看第六季，再看第五季，昨天刚看完第三季。每一季都有一些最感动我的内容。

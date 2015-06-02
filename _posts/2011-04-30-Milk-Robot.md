@@ -4,11 +4,7 @@ title: Milk Robot
 date: 2011-04-30 04:21:30
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 和以前的老板一起吃饭，感谢他对我找工作的支持。我很高兴，我们即使不再一起上班了，也还是朋友。
 

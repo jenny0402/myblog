@@ -4,11 +4,7 @@ title: Java ClassLoader的一点心得
 date: 2012-04-03 02:03:37
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 最近在做Java
 ClassLoader的东西，看了一些书，也上网查了一些资料。网上讲得很多，但能够系统回答我的问题的并不多。我总是找一点，做一点，一路走下来，走了不少弯路，也学到了很多。这里做一个总结，对网上哪些无私帮助别人的大牛们也是一点回馈，对自己的未来的学习也是一个笔记：

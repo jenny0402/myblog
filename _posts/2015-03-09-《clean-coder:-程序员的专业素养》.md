@@ -4,11 +4,7 @@ title: 《clean coder: 程序员的专业素养》
 date: 2015-03-09 00:05:06
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 中文书名起得很大，虽然下载了中文版，最后还是读了英文版，因为有纸质书嘛。其实科技人员的英语没有那么难懂啦，感兴趣的能看懂就足够了。
 

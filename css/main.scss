@@ -27,6 +27,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+body {
+   background-image: url(fleaf.png);
+   background-repeat: repeat-y;
+   background-position: 63%
+}
 
 
 // Using media queries with like this:

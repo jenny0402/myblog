@@ -4,11 +4,7 @@ title: cp还是install
 date: 2011-11-14 05:26:28
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
----
-
----
 
 最近因为项目的原因在学习Makefile。在install的地方我copy了别人的mkdir和cp，觉得这样就够了。但是我们部门的大牛在帮我看程序的时候，觉得这样不够专业，就把它改成了linux的install命令，可惜不工作，他的命令如下：
 install:$(program)
