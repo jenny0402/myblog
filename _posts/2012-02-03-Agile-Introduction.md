@@ -2,6 +2,7 @@
 layout: post
 title: Agile Introduction
 date: 2012-02-03 03:01:42
+excerpt: '公司鼓励我们去参加Agile工作方法的培训，培训的游戏很有意思，但是老师不是很让我们满意。'
 ---
 
 

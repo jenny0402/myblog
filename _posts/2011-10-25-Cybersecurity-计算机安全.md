@@ -2,6 +2,7 @@
 layout: post
 title: Cybersecurity 计算机安全
 date: 2011-10-25 03:56:14
+excerpt: '定了monster的求职日报，今天发现IBM狂招Cybersecurity的研究人员，猛一看吓我一跳，难道现在科技已经这么发达，都要研究cyberman的安全问题啦？查了字典，动用了google，才发'
 ---
 
 

@@ -23,9 +23,17 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
+
+.post-link {
+    margin:20px;
+    font-size:14px
+}
+
+.date-small {
+    font-size:12px
+}
 
 body {
    background-image: url(fleaf.png);

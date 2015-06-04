@@ -2,6 +2,7 @@
 layout: post
 title: house还是apartment
 date: 2011-08-27 23:03:32
+excerpt: '老公一直问我要不要买house或者r&aring;dhus（联排别墅），总是被我一口拒绝。总觉得我们两个都是懒人，哪里会打理什么院子和做那些烦人的维护，公寓多好啊，虽然物业费贵一些，空间小一些，可是不'
 ---
 
 

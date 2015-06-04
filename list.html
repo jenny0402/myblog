@@ -4,12 +4,17 @@ title: List of Content
 permalink: /list/
 ---
 <div class="home">
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%b %-d, %Y" }}:.. {{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+
+   <table class="post-list">
+      {% for post in site.posts %}
+      <tr>
+         <td class="date-small"> {{ post.date | date: "%b %-d, %Y" }} ...  </td>
+         <td> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+               {{ post.title }}</a>
+         </td>
+      </tr>
+      {% endfor %}
+   </table>
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

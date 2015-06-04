@@ -2,6 +2,8 @@
 layout: post
 title: 神秘博士——Doctor Who
 date: 2011-06-14 04:45:35
+excerpt: '他的名字就叫Doctor，他是一个外星人，他是time
+lord——时间领主，可以在任意时空自由来去，带着他的旅行工具——TARDIS，一个外在看起来象一个小小警亭却内有乾坤的宇宙飞船。他有一个地球人'
 ---
 
 
