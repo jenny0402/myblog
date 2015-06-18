@@ -4,7 +4,11 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 80px;
+    background-image: url(esher.png);
+    background-size: 600px 80px;
+    background-position: 100%;
+    background-repeat: no-repeat;
 
     // Positioning context for the mobile navigation icon
     position: relative;

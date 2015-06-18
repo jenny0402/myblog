@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Hi
+title: test of Jekkyl
 date: 2015-06-01 05:04:42
-excerpt: Jenny, my Jenny.
+excerpt: Just a test entry
 ---
 
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+## Try out the markdown.
 
-## Jenny.
+> this is a quote.
 
-> Have a great time writing your blog.
+This is a list:
+- list item
+- list item
+- list item
 
-Wish you:
 
-- many happy post entries.
-- many nice comments from everyone.
-- a lot of interesting things to discover and write about.
